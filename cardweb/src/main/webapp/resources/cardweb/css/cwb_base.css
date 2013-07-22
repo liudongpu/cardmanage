@@ -1,0 +1,45 @@
+body {
+	font-size: 12px;
+}
+
+a
+{
+	color:#000;
+}
+
+.nav-list>.active>a, .nav-list>.active>a:hover, .nav-list>.active>a:focus
+{
+	/*background-color:#57c917;*/
+}
+
+
+
+
+.cwb_home_header {
+	
+}
+
+.cwb_home_width {
+	width: 1000px;
+	margin: auto;
+	height:100%;
+}
+
+.cwb_home_header .c_site {
+	background-color: #d5f8c2;
+	height: 100px;
+}
+
+.cwb_home_header .c_nav {
+	background-color: #57c917;
+	height: 35px;
+	color: #fff;
+	line-height: 35px;
+}
+
+.cwb_home_main
+{
+	min-height:600px;
+}
+
+
